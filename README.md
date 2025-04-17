@@ -6,8 +6,9 @@
 ## Skills:
 ![Typescript](https://img.shields.io/badge/Typescript-44a3f1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)</br>
 ![MySQL](https://img.shields.io/badge/MySQL-44a3f1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
+![NodeJS](https://img.shields.io/badge/Visual_Studio_Code-44a3f1?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)</br>
+![MongoDB](https://img.shields.io/badge/MongoDB-44a3f1?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)</br>
 ![Docker](https://img.shields.io/badge/Docker-44a3f1?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)</br>
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-44a3f1?style=for-the-badge&logo=code&logoColor=white&labelColor=101010)</br>
 
 ## Sigueme en:
 
