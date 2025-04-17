@@ -13,7 +13,7 @@
 ### Spanish
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eleazar_Pina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eleazar-pina-venegas/)
 [![Instagram](https://img.shields.io/badge/Instagram-@eleazarpina-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/eleazarpina)
-[![Twitter](https://img.shields.io/badge/Twitter-@eleazarpina-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/eleazarpina)
+[![Twitter](https://img.shields.io/badge/Twitter-@eleazarpina-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/eleazarpina)
 
 ## Contactame:
 
