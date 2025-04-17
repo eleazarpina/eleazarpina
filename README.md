@@ -1,7 +1,7 @@
 # 👋 Hola, mi nombre es Eleazar Piña
 ### Soy Desarrollador Backend actualmente trabajando en Ciberseguridad.
 
-[![https://github.com/eleazarpina](https://github.com/eleazarpina)](https://github.com/eleazarpina)
+![https://github.com/eleazarpina](https://github.com/eleazarpina)
 
 ## Skills:
 ![Typescript](https://img.shields.io/badge/Typescript-44a3f1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)</br>
